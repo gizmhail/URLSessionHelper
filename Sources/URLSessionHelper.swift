@@ -1,3 +1,10 @@
+//
+//  URLSessionHelper.swift
+//  URLSessionHelper
+//
+//  Created by Sébastien POIVRE on 23/02/2017.
+//  Published under MIT License
+//
 import Foundation
 
 // MARK: Bug fix for missing, on Linux, "shared" property
